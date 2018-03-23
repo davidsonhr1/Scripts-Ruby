@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="www.adcasteloforte.com.br" version="1.0" createdIn="ADCF" modifiedIn="" modifiedDate="">
+  <properties>
+    <titles>
+      <title>Oceans (Where Feet May Fail)</title>
+    </titles>
+    <authors>
+      <author>Hillsong United</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v0">
+      <lines>Tu me chamas para as águas
+O lugar desconhecido onde meus pés podem falhar
+Lugar secreto onde eu Te encontro 
+Em profundos oceanos minha fé permanecerá</lines>
+    </verse>
+    <verse name="v1">
+      <lines>E eu chamarei pelo Teu nome
+E manterei meus olhos acima das ondas
+Quando o mar se agitar,
+Minh'alma se acalmará com Teu abraço
+Pois eu sou Teu e Tu és meu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tua graça abunda em profundas águas
+Tua poderosa mão será minha guia
+Onde meus pés falham e o medo me cerca
+Tu nunca falhaste e não falharás agora</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Então eu chamarei pelo Teu nome
+E manterei meus olhos acima das ondas
+Quando o mar se agitar,
+Minh'alma se acalmará com Teu abraço
+Pois eu sou Teu e Tu és meu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Espírito, leva-me onde minha confiança é sem limites
+Permita-me caminhas sobre as águas
+Onde quer que Tu me chames
+Leva-me mais longe que meus pés jamais poderão andar
+E minha fé se fortalecerá
+Na presença do meu Salvador</lines>
+    </verse>
+    <verse name="v5">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>
+<to_s/>

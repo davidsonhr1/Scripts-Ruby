@@ -1,0 +1,61 @@
+
+Linguagem Utilizada:
+      # Ruby
+
+Dependências: 
+      # rubygems   -- Para ler as gems
+      # vagalume   -- API para receber as letras do Vagalume
+      # builder    -- Para criar o XML
+
+# Para baixar a letra basta usar o comando Ex:
+
+    ruby song.rb --artista="Renascer Praise" --musica="Novo dia" --lingua="BR"
+
+# Caso a musica seje brasileira, usar o parametro 'lingua' com valor "BR"
+# Caso a musica seje americana (Original), usar o parametro 'lingua' com valor "EN"
+# Caso queira a musica americana traduzida para o Português/BR usar o parametro 'lingua' com valor "EN/PT"
+
+# A Musica será salva no formato XML no seguinte layout -- >
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="www.adcasteloforte.com.br" version="1.0" createdIn="ADCF" modifiedIn="" modifiedDate="">
+  <properties>
+    <titles>
+      <title>Novo Dia Novo Tempo</title>
+    </titles>
+    <authors>
+      <author>Renascer Praise</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v0">
+      <lines>Quando um novo dia começa ninguém vê
+			Mas à meia-noite tudo já mudou
+			No tempo de Deus vai aparecer
+			O que Ele já mostrou ao que crê</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nem tudo o que acontece dá pra entender
+			Andando pela fé a gente vai vencer
+			O que quero mais é me encher do teu poder
+			Jesus, se estás comigo, a quem eu temerei?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Novo dia, novo tempo
+			A fé faz aparecer
+			O impossível, o inatingível
+			De repente vai acontecer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Novo dia, novo tempo
+			A fé faz aparecer
+			O impossível, o inatingível
+			De repente vai acontecer</lines>
+    </verse>
+    <verse name="v4">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>
+
+<--
