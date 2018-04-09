@@ -49,7 +49,7 @@ end
 
     versos = musica.split(delimiter)
 
-    xml = Builder::XmlMarkup.new( :indent => 2 )
+    xml = Builder::XmlMarkup.new( :indent => 3 )
     xml.instruct! :xml, :encoding => "UTF-8"
     xml.song :xmlns => "www.adcasteloforte.com.br", :version => "1.0", :createdIn => "ADCF", :modifiedIn => "", :modifiedDate => "" do |s|
         xml.properties do |p|
@@ -66,18 +66,14 @@ end
                       t.lines musica.split(delimiter)[v]
                   end
             end #for
-
           end  #lyrics
-
       end
 
     #puts xml.inspect
 
     file = File.new("#{artist.name} - #{song.name}.xml", "wb")
     xmls = Builder::XmlMarkup.new target: file
-      file.write(xml)
+      file.write(xml.target!)
     file.close
-
-    puts "Musica Encontrada - "+artist.name+' - '+song.name
 
 
