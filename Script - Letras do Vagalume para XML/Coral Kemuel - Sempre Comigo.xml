@@ -10,9 +10,50 @@
   </properties>
   <lyrics>
     <verse name="v0">
-      <lines>Sempre Comigo</lines>
+      <lines>Toda melodia que eu entoar é para o adorar
+Cada lágrima que eu derramar é para o adorar
+Toda melodia que eu entoar é para o adorar
+Cada lágrima que eu derramar  é para o adorar</lines>
     </verse>
     <verse name="v1">
+      <lines>Na alegria ou na dor, eu cantarei
+E em meio às lutas não me calarei</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As batidas do meu coração
+Tu conheces o compasso
+Olha dentro de mim
+Não preciso fingir, me conheces
+Eu preciso de ti, me conheces(2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O meu deitar, o meu respirar
+Toda a minha vida é pra te adorar
+O meu deitar, o meu respirar
+Toda a minha vida é pra te adorar
+Estarás, andarás sempre comigo (4x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As batidas do meu coração
+Tu conheces o compasso
+Olha dentro de mim
+Não preciso fingir, tu conheces
+Eu preciso de ti, me conheces(2x)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>De ti eu quero mais, e mais, e mais
+De ti eu quero mais</lines>
+    </verse>
+    <verse name="v6">
+      <lines>De ti eu quero mais, mais
+De ti eu quero mais</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Como eu preciso de ti, senhor
+Eu nunca estou só, a tua forte mão me sustentou 
+Deus eu sei que me conheces...</lines>
+    </verse>
+    <verse name="v8">
       <lines/>
     </verse>
   </lyrics>
