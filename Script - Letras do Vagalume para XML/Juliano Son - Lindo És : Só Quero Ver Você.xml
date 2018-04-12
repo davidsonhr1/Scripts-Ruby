@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="www.adcasteloforte.com.br" version="1.0" createdIn="ADCF" modifiedIn="" modifiedDate="">
+   <properties>
+      <titles>
+         <title>Lindo És / Só Quero Ver Você</title>
+      </titles>
+      <authors>
+         <author>Juliano Son</author>
+      </authors>
+   </properties>
+   <lyrics>
+      <verse name="v0">
+         <lines>Lindo, lindo, lindo és
+Glória, glória eu Te dou, Jesus, Jesus
+Lindo, lindo, lindo és
+Glória, glória eu Te dou, Jesus, Jesus</lines>
+      </verse>
+      <verse name="v1">
+         <lines>Não há outro Senhor
+Outro mais belo, mais lindo
+Desejável, desejável
+Anelamos por Ti</lines>
+      </verse>
+      <verse name="v2">
+         <lines>Me leva a sala do trono
+Mostra Tua beleza
+Quero ver Tua face Deus</lines>
+      </verse>
+      <verse name="v3">
+         <lines>Só quero, só quero, ver Você
+Só quero, só quero, ver Você
+Só quero, só quero, ver Você</lines>
+      </verse>
+      <verse name="v4">
+         <lines>Só quero, só quero, ver Você
+Só quero, só quero, ver Você
+Só quero, só quero, ver Você</lines>
+      </verse>
+      <verse name="v5">
+         <lines/>
+      </verse>
+   </lyrics>
+</song>

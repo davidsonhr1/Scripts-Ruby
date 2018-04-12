@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="www.adcasteloforte.com.br" version="1.0" createdIn="ADCF" modifiedIn="" modifiedDate="">
+   <properties>
+      <titles>
+         <title>Pai Nosso</title>
+      </titles>
+      <authors>
+         <author>Ministério Pedras Vivas</author>
+      </authors>
+   </properties>
+   <lyrics>
+      <verse name="v0">
+         <lines>Pai nosso, nos céus
+Santo é o Teu nome
+Teu reino buscamos
+Tua vontade seja feita</lines>
+      </verse>
+      <verse name="v1">
+         <lines>Na terra como é nos céus
+Deixe o céu descer
+Na terra como é nos céus
+Deixe o céu descer</lines>
+      </verse>
+      <verse name="v2">
+         <lines>
+Pai nosso, nos céus
+Santo é o Teu nome
+Teu reino buscamos
+Tua vontade seja feita</lines>
+      </verse>
+      <verse name="v3">
+         <lines>Na terra como é nos céus
+Deixe o céu descer
+Na terra como é nos céus
+Deixe o céu descer</lines>
+      </verse>
+      <verse name="v4">
+         <lines>Deixa o céu descer 9x</lines>
+      </verse>
+      <verse name="v5">
+         <lines>Teu é o reino
+Teu, o poder e Tua é a glória 
+Pra sempre amém 5x</lines>
+      </verse>
+      <verse name="v6">
+         <lines/>
+      </verse>
+   </lyrics>
+</song>

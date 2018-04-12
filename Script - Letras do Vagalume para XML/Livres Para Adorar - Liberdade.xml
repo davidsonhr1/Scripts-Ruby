@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="www.adcasteloforte.com.br" version="1.0" createdIn="ADCF" modifiedIn="" modifiedDate="">
+   <properties>
+      <titles>
+         <title>Liberdade</title>
+      </titles>
+      <authors>
+         <author>Livres Para Adorar</author>
+      </authors>
+   </properties>
+   <lyrics>
+      <verse name="v0">
+         <lines>Onde o Espírito de Deus está
+Eu sou livre
+Onde o Espírito de Deus está
+Eu sou livre</lines>
+      </verse>
+      <verse name="v1">
+         <lines>Você que tem fome
+Seja livre
+Você que esta cansado
+Seja livre... livre</lines>
+      </verse>
+      <verse name="v2">
+         <lines>Liberdade está neste lugar
+Com misericórdia e graça
+Fluindo sobre nós
+Somos livres</lines>
+      </verse>
+      <verse name="v3">
+         <lines>Jesus reina neste lugar
+Com misericórdia e graça
+Fluindo sobre nós
+Somos livres</lines>
+      </verse>
+      <verse name="v4">
+         <lines>Onde o Espirito de Deus esta
+Eu sou livre
+Onde o Espírito de Deus está
+Eu sou livre</lines>
+      </verse>
+      <verse name="v5">
+         <lines>Olhe para céu
+E seja livre
+Olhe para Jesus
+E seja livre</lines>
+      </verse>
+      <verse name="v6">
+         <lines/>
+      </verse>
+   </lyrics>
+</song>

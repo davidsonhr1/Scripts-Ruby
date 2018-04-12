@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="www.adcasteloforte.com.br" version="1.0" createdIn="ADCF" modifiedIn="" modifiedDate="">
+   <properties>
+      <titles>
+         <title>Teu Reino</title>
+      </titles>
+      <authors>
+         <author>Ministério Cristo Vivo</author>
+      </authors>
+   </properties>
+   <lyrics>
+      <verse name="v0">
+         <lines>Os reinos se abalam
+Os povos se curvam
+As bocas se abrem          (2 X)
+As mãos se levantam
+Pra dizer que Tu és o Rei
+Pra dizer que Tu és o Senhor</lines>
+      </verse>
+      <verse name="v1">
+         <lines>Teu Reino é sempre eterno
+Firmado em misericórdia
+Justiça e igualdade.                     (2 X)
+Bondade e fidelidade
+A tua igreja Te adora, tua igreja Te adora</lines>
+      </verse>
+      <verse name="v2">
+         <lines>Os reinos se abalam
+Os povos se curvam
+As bocas se abrem                   (2 X)
+As mãos se levantam
+Pra dizer que Tu és o Rei
+Pra dizer que Tu é o Senhor</lines>
+      </verse>
+      <verse name="v3">
+         <lines>
+A tua igreja Te adora!</lines>
+      </verse>
+      <verse name="v4">
+         <lines/>
+      </verse>
+   </lyrics>
+</song>

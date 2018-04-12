@@ -76,4 +76,5 @@ end
       file.write(xml.target!)
     file.close
 
+    puts "Musica Encontrada - "+artist.name+" - "+song.name
 

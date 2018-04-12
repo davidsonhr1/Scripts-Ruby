@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="www.adcasteloforte.com.br" version="1.0" createdIn="ADCF" modifiedIn="" modifiedDate="">
+   <properties>
+      <titles>
+         <title>Alfa e Ômega</title>
+      </titles>
+      <authors>
+         <author>Marine Friesen</author>
+      </authors>
+   </properties>
+   <lyrics>
+      <verse name="v0">
+         <lines>Não há outro como Tu
+Soberano e fiel
+Não há outro como Tu
+Reina sobre a terra e céus</lines>
+      </verse>
+      <verse name="v1">
+         <lines>És o Alfa e Ômega
+Início e Fim
+És o ar que eu respiro
+Tudo pra mim
+Tu és Jesus, Tu és Jesus</lines>
+      </verse>
+      <verse name="v2">
+         <lines>Alfa e Ômega
+Início e Fim
+Tudo pra mim</lines>
+      </verse>
+      <verse name="v3">
+         <lines/>
+      </verse>
+   </lyrics>
+</song>
